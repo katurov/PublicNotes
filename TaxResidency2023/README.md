@@ -41,6 +41,7 @@
 1. [ПРОБЛЕМЫ ПОРЯДКА ОПРЕДЕЛЕНИЯ СТАТУСА НАЛОГОВОГО РЕЗИДЕНТА](https://uprav-uchet.ru/index.php/journal/article/view/401), Научный журнал "Управленческий учет". ISSN 1814-8476. Перечень ВАК № 2546
 2. [Коллекция писем Минфина](https://minfin.gov.ru/ru/perfomance/tax_relations/Answers/fizprofit/)
 3. [Сотрудник работает за границей: как исчислять НДФЛ и страховые взносы](https://pravovest-audit.ru/nashi-statii-nalogi-i-buhuchet/sotrudnik-za-granice-nalogovye-posledstviya/)
+4. [Почему эмигранты-удаленщики иногда не платят налоги в России: нюансы НДФЛ с зарплаты](https://vc.ru/finance/647452-pochemu-emigranty-udalenshchiki-inogda-ne-platyat-nalogi-v-rossii-nyuansy-ndfl-s-zarplaty)
 
 # P.S.
 
