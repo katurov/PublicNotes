@@ -4,9 +4,12 @@
 
 1. [Superhuman](https://superhuman.beehiiv.com) by Zain Kahn - Learn how to leverage AI to boost your productivity and accelerate your career. Join the world's biggest AI newsletter with 200,000+ readers from companies like Apple, Amazon, Google, Meta, Microsoft and more.
 2. [The practical guide to using AI to do stuff](https://www.oneusefulthing.org/p/the-practical-guide-to-using-ai-to) by ETHAN MOLLICK - A resource for students in my classes (and other interested people). My classes now require AI (and if I didn’t require AI use, it wouldn’t matter, everyone is using AI anyway). But how can students use AI well? Here is a basic tutorial and guide I am providing my classes. It covers some of the many ways to use AI to be more productive, creative, and successful, using the technology available in early 2023, as well as some of the risks.
-3. [The Ultimate GPT-4 Guide](https://hasantoxr.gumroad.com/l/gpt4) by [Hasan Toor](https://bio.link/hasantoxr) - Learn and Master everything about GPT-4 to enhance and level up your life. 
-4. [Benchmarking](https://www.youtube.com/watch?v=ZnhFA-r_YvA) of GPU, а так же в практическом применении [RTX 2060 Vs GTX 1080Ti Deep Learning Benchmarks: Cheapest RTX card Vs Most Expensive GTX card](https://towardsdatascience.com/rtx-2060-vs-gtx-1080ti-in-deep-learning-gpu-benchmarks-cheapest-rtx-vs-most-expensive-gtx-card-cd47cd9931d2).
-5. Техническая спецификация от [rtx-3070-3070ti](https://www.nvidia.com/en-eu/geforce/graphics-cards/30-series/rtx-3070-3070ti/), которая стоит примерно 94 000 динар
+3. [AI Valley](https://www.theaivalley.com) - Join 50,000+ people discovering New AI Tools, Useful Prompts, and Latest AI Developments | Read by professionals from Google, OpenAI, Notion, Apple. 
+4. [Китайская комната](https://ru.wikipedia.org/wiki/Китайская_комната) - важное объяснение, как это работает. 
+5. [Ложная слепота](https://fantlab.ru/work134421) by Питер Уоттс - научная фантастика о том, как люди сталкиваются с ИИ
+6. [The Ultimate GPT-4 Guide](https://hasantoxr.gumroad.com/l/gpt4) by [Hasan Toor](https://bio.link/hasantoxr) - Learn and Master everything about GPT-4 to enhance and level up your life. 
+7. [Benchmarking](https://www.youtube.com/watch?v=ZnhFA-r_YvA) of GPU, а так же в практическом применении [RTX 2060 Vs GTX 1080Ti Deep Learning Benchmarks: Cheapest RTX card Vs Most Expensive GTX card](https://towardsdatascience.com/rtx-2060-vs-gtx-1080ti-in-deep-learning-gpu-benchmarks-cheapest-rtx-vs-most-expensive-gtx-card-cd47cd9931d2).
+8. Техническая спецификация от [rtx-3070-3070ti](https://www.nvidia.com/en-eu/geforce/graphics-cards/30-series/rtx-3070-3070ti/), которая стоит примерно 94 000 динар
 
 ## Инструменты и программы
 
