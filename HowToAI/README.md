@@ -16,6 +16,7 @@
 4. [photofeeler](https://www.photofeeler.com) - программа, которая описывает фото параметрически, какое подойдет для резюме, а что - для службы знакомств
 5. [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - M1 версия [Whisper](https://github.com/openai/whisper/tree/main), программы по распознанию текста из речи
 6. [llama.cpp](https://github.com/ggerganov/llama.cpp) - M1 версия [LLaMA](https://arxiv.org/abs/2302.13971): Open and Efficient Foundation Language Models. We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters. We train our models on trillions of tokens, and show that it is possible to train state-of-the-art models using publicly available datasets exclusively, without resorting to proprietary and inaccessible datasets. In particular, LLaMA-13B outperforms GPT-3 (175B) on most benchmarks, and LLaMA-65B is competitive with the best models, Chinchilla-70B and PaLM-540B. We release all our models to the research community. Очень важно внутрь положить оригинальные файлы LLaMA [по инструкции](https://github.com/facebookresearch/llama/issues/149)
+7. [krisp](https://krisp.ai) - improves the productivity of online meetings with it’s AI-powered Voice Clarity and Meeting Assistant. Есть бесплатный тариф, но вообще [за деньги](https://krisp.ai/pricing/). Главный промо из двух частей: чистит звук, выступая виртуальным девайсом; умеет расшифровать текст, но только английский (вот и чего не wisper, который умеет и русский?)
 
 ## Про программирование
 
