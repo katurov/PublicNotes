@@ -37,3 +37,9 @@ Most of the components sold separately or as part of the systems provided are ma
 ## All the rest
 
 Impressive technology, scales, techniques, peculiar beauty. There's a lot of high-tech in all of this, but it's not my specialty.
+
+## The current state
+
+**As from EU** [link](https://neighbourhood-enlargement.ec.europa.eu/system/files/2022-10/Serbia%20Report%202022.pdf)
+> As regards horizontal issues, the adoption of the next national programme for agriculture and rural development for the period 2022-2024 is pending. Its complementarity with the IPARD III programme should be ensured. The revision and update of the action plan on alignment with the EU acquis on agriculture and rural development should be finalised in the course of 2022. Serbia should speed up the establishment of the integrated administration and control system (IACS), and the transition from manual to electronic processing of aid applications. The procurement of software for the land parcel identification system (LPIS), a pre-condition for the start of the IPA 2021 project on the 1st phase of establishment of IACS, should be fulfilled without any further delays. Progress must be made in decoupling payments from production and linking area-based payments to cross-compliance standards. The farm accountancy data network (FADN) is established, but its sample size and the quality of the data needs to be further improved to be fully representative.
+
