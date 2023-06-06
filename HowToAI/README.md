@@ -10,6 +10,7 @@
 6. [The Ultimate GPT-4 Guide](https://hasantoxr.gumroad.com/l/gpt4) by [Hasan Toor](https://bio.link/hasantoxr) - Learn and Master everything about GPT-4 to enhance and level up your life. 
 7. [Benchmarking](https://www.youtube.com/watch?v=ZnhFA-r_YvA) of GPU, а так же в практическом применении [RTX 2060 Vs GTX 1080Ti Deep Learning Benchmarks: Cheapest RTX card Vs Most Expensive GTX card](https://towardsdatascience.com/rtx-2060-vs-gtx-1080ti-in-deep-learning-gpu-benchmarks-cheapest-rtx-vs-most-expensive-gtx-card-cd47cd9931d2).
 8. Техническая спецификация от [rtx-3070-3070ti](https://www.nvidia.com/en-eu/geforce/graphics-cards/30-series/rtx-3070-3070ti/), которая стоит примерно 94 000 динар
+9. [A collection of AWESOME things about Graph-Related Large Language Models (LLMs)](https://github.com/XiaoxinHe/Awesome-Graph-LLM)
 
 ## Инструменты и программы
 
