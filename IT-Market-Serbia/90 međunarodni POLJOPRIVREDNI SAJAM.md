@@ -38,8 +38,27 @@ Most of the components sold separately or as part of the systems provided are ma
 
 Impressive technology, scales, techniques, peculiar beauty. There's a lot of high-tech in all of this, but it's not my specialty.
 
-## The current state
+## Resume
+
+1. The most advanced part of the market is the farming equipment industry. Everything works well, from making and selling products to getting bank loans. Most machines have installed positioning systems - these machines are ready for the future. Banks and sellers plan to work closely for many years.
+
+2. Big companies with large fields understand how to make investments of this size work for them. They have detailed budgets and plan to get the most benefits possible. They can pick and choose from different parts on the market, like navigation systems, autopilots, weather stations, and independent power systems, to build something that works for them. But small farms don't have this kind of plan.
+
+3. Farmers often buy equipment that's easy to understand: standalone power systems, weather stations. But when they buy machines that need extra systems to work, it can get complicated, both in understanding how these machines can help them and how the large systems work.
+
+4. Medium and small businesses can't build a complete "product" from what's available on the market on their own, while companies that supply parts can put everything together, but can't offer a product that would help the farmer right now or in the near future. They simply haven't made this kind of product.
+
+5. The amount of benefit from upgrading businesses is tiny compared to the cost of a solution made for much bigger areas. However, no one has offered this as a shared system - for several businesses at once - even though it's clear that there's a need for it in Serbia.
+
+## What needs to be done right now:
+
+* Create an explainable and expandable product line, starting with a Minimum Viable Product (MVP) and evolving with the customer's needs.
+
+* Offer infrastructure for shared ownership, whereas within the subscription differentiate the product for each customer.
+
+* Bring the best of what IT has to offer: illustrations, base of evidence, flexible product development.
+
+## Post scriptum
 
 **As from EU** [link](https://neighbourhood-enlargement.ec.europa.eu/system/files/2022-10/Serbia%20Report%202022.pdf)
 > As regards horizontal issues, the adoption of the next national programme for agriculture and rural development for the period 2022-2024 is pending. Its complementarity with the IPARD III programme should be ensured. The revision and update of the action plan on alignment with the EU acquis on agriculture and rural development should be finalised in the course of 2022. **Serbia should speed up the establishment of the integrated administration and control system (IACS), and the transition from manual to electronic processing of aid applications**. The procurement of software for the land parcel identification system (LPIS), a pre-condition for the start of the IPA 2021 project on the 1st phase of establishment of IACS, **should be fulfilled without any further delays**. Progress **must be made** in decoupling payments from production and linking area-based payments to cross-compliance standards. The farm accountancy data network (FADN) is established, but its sample size and the quality of the data needs to be further improved to be fully representative.
-
