@@ -1,5 +1,7 @@
 # Важное изменение с 01.01.2024
 
+**Тем временем** [есть постоянный обмен между странами](https://www.oecd.org/tax/automatic-exchange/about-automatic-exchange/) информацией, необходимой для правильной калькуляции налогов, и хотя [в России с этим есть трудности](https://www.forbes.ru/mneniya/479075-otmena-avtoobmena-o-cem-nuzno-pomnit-rossianam-so-scetami-za-rubezom), так ведь и вы не в России?
+
 **Status Quo** на [интерфакс](https://www.interfax.ru/russia/902093) и на [MoscowTimes](https://0x1moscowtimes.global.ssl.fastly.net/2023/05/18/minfin-obyazhet-emigrantov-udalenschikov-platit-nalogi-v-rossii-a43340)
 
 > Москва. 18 мая. INTERFAX.RU - Минфин предлагает взимать НДФЛ по стандартным ставкам в 13-15% с заработков тех россиян, кто в силу переезда за границу утратил налоговое резидентство России, но остается штатным "дистанционным" сотрудником, и ряда фрилансеров, работающих на российских заказчиков.
