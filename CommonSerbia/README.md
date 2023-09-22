@@ -4,6 +4,7 @@
 1. [«Мы решили рискнуть»: как живут и строят бизнес переехавшие в Сербию россияне](https://www.forbes.ru/forbeslife/490196-my-resili-risknut-kak-zivut-i-stroat-biznes-pereehavsie-v-serbiu-rossiane) на Forbes и на [Ъ](https://kommersant-ru.turbopages.org/kommersant.ru/s/doc/5915745)
 2. [В марте 80% заявок на разрешение на работу в Сербии было от россиян](https://www.kommersant.ru/doc/5915745) на "Ъ" в марте 2023
 3. Канал [Gradske info](https://www.youtube.com/@Gradskeinfo/featured) на YouTube рассказывает про Нови Сад: инфраструктура, архитектура, люди, новости. Полезно, чтобы проникнуться атмосферой.
+4. [«Тяжелее всего эмиграция дается перфекционистам»](https://journal.tinkoff.ru/emigrant-depression/). Психолог Юлия Морозова — о травмах релокации
 
 ## Правила въезда и нахождения в Сербии для Россиян
 
