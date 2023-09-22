@@ -6,6 +6,8 @@
 
 ВАЖНО: Forbes пишет [что делать, если карту или счет заблокировали за донаты](https://www.forbes.ru/finansy/493171-opasnyj-perevod-cto-delat-esli-kartu-ili-scet-zablokirovali-za-donaty)
 
+История: [Криптобиржи OKX и Bybit отключили операции с подсанкционными банками России](https://www.forbes.ru/finansy/495366-kriptobirzi-okx-i-bybit-otklucili-operacii-s-podsankcionnymi-bankami-rossii)
+
 ## Золотая корона (Korona Pay)
 
 Работает в с теми русскими банками, которые не попали под санкции ([в феврале под санкциями 31 банк](https://www.banki.ru/news/daytheme/?id=10965728), список может пополниться). У меня нет такой карты, и нет возможности ее завести, но если вам везет (или есть подходящий друг), то пригодно. 
