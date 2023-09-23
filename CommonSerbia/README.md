@@ -5,6 +5,7 @@
 2. [В марте 80% заявок на разрешение на работу в Сербии было от россиян](https://www.kommersant.ru/doc/5915745) на "Ъ" в марте 2023
 3. Канал [Gradske info](https://www.youtube.com/@Gradskeinfo/featured) на YouTube рассказывает про Нови Сад: инфраструктура, архитектура, люди, новости. Полезно, чтобы проникнуться атмосферой.
 4. [«Тяжелее всего эмиграция дается перфекционистам»](https://journal.tinkoff.ru/emigrant-depression/). Психолог Юлия Морозова — о травмах релокации
+5. Каналы на YouTube с отличными заметками про Сербию: [Sammy and Tommy](https://www.youtube.com/watch?v=mJzt7jC24sQ&list=PLYOpTxcV2c9OsJ-j-Es_l_bPJ0gL2pFfm&pp=iAQB), [Ian and Ana](https://www.youtube.com/watch?v=WbQR1GkiflA&list=PLjnU1LcrNNnf0iCZ5vf4bWCfCDevu_Kyf&index=6), [Антон Макаров](https://www.youtube.com/watch?v=MIGfkC9neIk&t=1717s)
 
 ## Правила въезда и нахождения в Сербии для Россиян
 
