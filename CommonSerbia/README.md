@@ -7,7 +7,7 @@
 4. [«Тяжелее всего эмиграция дается перфекционистам»](https://journal.tinkoff.ru/emigrant-depression/). Психолог Юлия Морозова — о травмах релокации
 5. Каналы на YouTube с отличными заметками про Сербию: [Sammy and Tommy](https://www.youtube.com/watch?v=mJzt7jC24sQ&list=PLYOpTxcV2c9OsJ-j-Es_l_bPJ0gL2pFfm&pp=iAQB), [Ian and Ana](https://www.youtube.com/watch?v=WbQR1GkiflA&list=PLjnU1LcrNNnf0iCZ5vf4bWCfCDevu_Kyf&index=6), [Антон Макаров](https://www.youtube.com/watch?v=MIGfkC9neIk&t=1717s)
 
-6. Чуть в сторону, но полезно прочитать, так как правовые процедуры схожи у Сербии и Федерации Боснии и Герцеговины: [Как получить регистрации на авто купленное в РФ](https://github.com/midik/PublicNotes/blob/main/CarCustomsClearance.md) и с чисто российским набором документов. Инструкция с чувством юмора, рекомендую прочитать просто для впечатления ))
+6. Чуть в сторону и Republika Srpska, но полезно прочитать, так как правовые процедуры схожи у Сербии и Федерации Боснии и Герцеговины: [Как получить регистрацию на авто купленное в РФ](https://github.com/midik/PublicNotes/blob/main/CarCustomsClearance.md) и с чисто российским набором документов. Инструкция с чувством юмора, рекомендую прочитать просто для впечатления ))
 
 ## Правила въезда и нахождения в Сербии для Россиян
 
