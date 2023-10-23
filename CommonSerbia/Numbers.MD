@@ -1,5 +1,7 @@
 # Цифры про русскую миграцию 2022-203* годов
 
+* Что касается прекращения российского гражданства, то в 2023 г. выйти из него изъявили желание 4,4 тыс. человек, что сопоставимо с данными прошлого года (по итогам 2022 г. – 4,3 тыс. человек). [7]
+
 Сербия:
 
 * Согласно переписи населения Сербии в 2011 году выходцев из России в стране насчитывалось всего 3247 человек. Это меньше, чем даже украинцев - 4903 [1]
@@ -30,3 +32,4 @@
 4. [How many Serbian passports were given to Russians?](https://www.serbianmonitor.com/en/how-many-serbian-passports-were-given-to-russians/), Snezana Rakic, 22/08/2023
 5. [Faster issuance of Serbian passport to foreigners – Brussels objects](https://www.serbianmonitor.com/en/faster-issuance-of-serbian-passport-to-foreigners-brussels-objects/), Snezana Rakic, 23/05/2023 [Politika, 22.05.2023](https://www.politika.rs/sr/clanak/554007/srpski-pasos)
 6. [Сербов просят не разбрасываться гражданством](https://www.kommersant.ru/doc/6196907), Геннадий Сысоев, 03.09.2023, 21:22 (Газета «Коммерсантъ» №162/П от 04.09.2023, стр. 6)
+7. [Интервью директора Консульского департамента МИД России А.В.Климова МИА «Россия сегодня», 22 октября 2023 года](https://www.mid.ru/ru/foreign_policy/news/1910798/)
