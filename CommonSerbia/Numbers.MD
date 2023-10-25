@@ -8,7 +8,7 @@
 
 * Ранее в МВД сообщили, что число получивших гражданство России в 2022 году оказалось минимальным за последние три года. Обладателями паспорта РФ стали 691 тысяча человек против 735 тысяч в 2021 году. Большинство из них были гражданами Украины, на которых пришлось 43% решений. [11]
 
-Сербия:
+## Сербия:
 
 * Согласно переписи населения Сербии в 2011 году выходцев из России в стране насчитывалось всего 3247 человек. Это меньше, чем даже украинцев - 4903 [1]
 
@@ -30,6 +30,18 @@
 * Some say that their monthly expenses are over 2,000 euros, but most of them said they need a minimum of 700 euros to make it through the month. _“Ordinary people with some kind of savings, including myself, seem to get around with 500 to 1,000 euros, of which only the rent is somewhere around 300 to 400 euros,”_ one of the Russians that the Blic interviewed said. [3]
 
 
+## Израиль
+
+* According to Jewish Agency data, 37,364 Olim arrived from Russia between January 1 and December 1, 2022, followed by 14,680 from Ukraine, 3,500 from North America with help from Nefesh B’Nefesh, 2,049 from France, 1,993 from Belarus, 1,498 from Ethiopia as part of Operation Tzur Israel, 985 from Argentina, 526 from the United Kingdom, 426 from South Africa, and 356 from Brazil. Upon year’s end, 2022’s final tally will be available. [13] Число репатриантов стало рекордным за 23 года. В прошлом году в страну въехали лишь 28,6 тыс. человек. Агентство учитывало период с 1 января до 1 декабря, причем не только тех, кто репатриировался через Еврейское агентство, но и тех, кто приехал в Израиль как турист, а затем прошел через процесс получения гражданства. [14]
+
+* Approximately 27% (or about 19,000) of this year’s olim are young people between 18 and 35, who will strengthen Israeli society and the economy. [13]
+
+* 478 of the new soldiers are recent immigrants, the majority of whom are lone soldiers. Of the new recruits, 57.6% are men, while 42.4% of the new combat soldiers will be women. While the average age of the recruits is 18.9 years, the ages vary from the youngest recruit, who is 17 years and 7 months old, to the oldest who is 30 years and 10 months old. The top five countries of origin of the immigrant soldiers are Russia, the US, Ethiopia, Ukraine, and France. Among countries from which only one soldier immigrated are Estonia, South Korea, Greece, Martinique, Paraguay, Congo, and Romania. [15]
+
+* «По данным Министерства по делам абсорбции, в 2023 году репатриация увеличилась, в основном увеличилось именно количество граждан России, которые хотят получить израильское гражданство, а количество граждан Украины, наоборот, снизилось», — рассказал Коваленко. Исходя из данных Министерства абсорбции Израиля, только за первые семь месяцев 2023 года количество репатриантов из России увеличится в два раза в сравнении с 2022 годом, добавил Коваленко. [16]
+
+* Наибольшее число репатриантов поселились в Нетании (22%), на втором месте Хайфа (11%). [17]
+
 ## Список литературы
 
 1. [Сколько россиян переехало в Сербию с весны 2022 года и какие у них насущные проблемы?](https://internationalwealth.info/life-abroad/skolko-vykhodtsev-iz-rossii-segodnya-zhivet-v-serbii/),  Alexey Astapov, 2 февраля 2023
@@ -45,3 +57,8 @@
 6 сентября, 15:54
 11. [Почти 4,5 тысячи человек отказались от российского гражданства в 2023 году](https://storage.googleapis.com/gsc-link-dev/www.moscowtimes.ru/00801d16.html?utm_source=The+Moscow+Times.+Русская+cлужба&utm_campaign=b8a21e5195-EMAIL_CAMPAIGN_2022_10_31_03_35_COPY_01&utm_medium=email&utm_term=0_b979442beb-b8a21e5195-481716424), The Moscow Times. Русская cлужба, 22 октября 2023 [копия](https://www.moscowtimes.ru/2023/10/22/pochti-45-tisyachi-chelovek-otkazalis-otrossiiskogo-grazhdanstva-v2023-godu-a110747)
 12. [Принята новая редакция закона «О гражданстве»](http://duma.gov.ru/news/56831/), ГОСУДАРСТВЕННАЯ ДУМА ФЕДЕРАЛЬНОГО СОБРАНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ, 18.04.2023
+13. [70,000 People From 95 Countries will Make Aliyah In 2022](https://yidinfo.net/70000-people-from-95-countries-will-make-aliyah-in-2022/), 12/22/2022
+14. [В Израиль за год репатриировались рекордные 70 тыс. человек](https://www.rbc.ru/politics/27/12/2022/63ab331d9a7947613adaf52d), Политика , 27 дек 2022, 21:52
+15. [Thousands of recruits join IDF combat units this summer](https://www.jpost.com/israel-news/article-753103), By JERUSALEM POST STAFF JULY 31, 2023 06:04
+16. [Число репатриантов в Израиль из России вырастет в два раза по итогам 2023 года](https://rtvi.com/news/chislo-repatriantov-v-izrail-iz-rossii-vyrastet-v-dva-raza-po-itogam-2023-goda/), RTVI, Татьяна Струкова 31.08.2023
+17. [День Алии: за год в Израиль репатриировались более 70 тысяч человек](https://www.newsru.co.il/israel/1dec2022/aliya_502.html#),  01 Декабря 2022 г.
