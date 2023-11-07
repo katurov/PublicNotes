@@ -9,6 +9,8 @@
 
 6. Чуть в сторону и Republika Srpska, но полезно прочитать, так как правовые процедуры схожи у Сербии и Федерации Боснии и Герцеговины: [Как получить регистрацию на авто купленное в РФ](https://github.com/midik/PublicNotes/blob/main/CarCustomsClearance.md) и с чисто российским набором документов. Инструкция с чувством юмора, рекомендую прочитать просто для впечатления ))
 
+7. [Serbia Country Commercial Guide](https://www.trade.gov/country-commercial-guides/serbia-market-overview?section-nav=5477) от Official Website of the International Trade Administration (США)
+
 ## Правила въезда и нахождения в Сербии для Россиян
 
 Проделана огромная работа и переведен (пусть и частично) [Закон об иностранцах](https://docs.google.com/document/d/1n4yelJjJbR3B2yGp2-o4y1HbOF-Pu9Zz/edit), с ним важно ознакомиться, так как он дает довольно плотное понимание реальности. 
