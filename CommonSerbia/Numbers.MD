@@ -98,6 +98,11 @@
 
 * "В этом году в Казахстан въехало более пяти миллионов иностранцев. На первом месте граждане Российской Федерации - 2 миллиона 900 тысяч. На втором месте Узбекистан – 2 миллиона 300 тысяч. Еще 730 тысяч граждан Кыргызстана. Более 330 тысяч из Таджикистана. И почти 90 тысяч граждан Турции", - сообщил Аслан Аталыков. По его словам, сейчас в Казахстане временно пребывает 650 тысяч иностранцев. И почти шесть миллионов выехало из страны.  [33]
 
+
+## Германия
+
+* There are now 40,000 unprocessed citizenship applications in Berlin (up from 27,000 at the end of 2022), but wait, it gets worse... [37]
+
 ## Список литературы
 
 1. [Сколько россиян переехало в Сербию с весны 2022 года и какие у них насущные проблемы?](https://internationalwealth.info/life-abroad/skolko-vykhodtsev-iz-rossii-segodnya-zhivet-v-serbii/),  Alexey Astapov, 2 февраля 2023
@@ -137,3 +142,4 @@
 34. [В Казахстан с начала года въехали 1,66 млн россиян, а выехало - 1,64 млн](https://www.interfax.ru/world/863575), 23 сентября 2022
 35. [Зарплаты IT-специалистов в России с начала года выросли на 15%](https://www.forbes.ru/svoi-biznes/499692-zarplaty-it-specialistov-v-rossii-s-nacala-goda-vyrosli-na-15), 02 ноября 2023, Лиана Липанова
 36. [IT в милость: вернувшихся релокантов предложили восстанавливать на работе](https://iz.ru/1580588/milana-gadzhieva/it-v-milost-vernuvshikhsia-relokantov-predlozhili-vosstanavlivat-na-rabote?utm_source=The+Moscow+Times.+Русская+cлужба&utm_campaign=23fc1482f1-EMAIL_CAMPAIGN_2022_10_31_03_35_COPY_01&utm_medium=email&utm_term=0_b979442beb-23fc1482f1-481716424), Милана Гаджиева, 5 октября 2023
+37. [There are now 40,000 unprocessed citizenship applications in Berlin (up from 27,000 at the end of 2022), but wait, it gets worse...](https://x.com/aboutberlin/status/1721858856748245142?s=20), All About Berlin, 7.11.2023
