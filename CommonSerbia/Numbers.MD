@@ -103,6 +103,8 @@
 
 * There are now 40,000 unprocessed citizenship applications in Berlin (up from 27,000 at the end of 2022), but wait, it gets worse... [37]
 
+* The Bürgerämter have been refusing new citizenship applications since March, because in January, it will be someone else's job. This means that there are 40,000 open cases and an untold number of unopened cases. My friends want to apply, but they can't. But wait, it gets worse... The new central citizenship office takes over in January. It should process 20,000 applications per year if all goes according to plan. Things are not going according to plan: the new central office is 12% short of its staffing goal. But wait, it gets worse... They received 15,100 citizenship applications in 2023 (as of September 30). In other words, around 20,000 applications per year. The central processing office will not catch up. [It will barely keep up](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17062.pdf). But wait, it gets worse... The citizenship reform is coming. It will qualify people for citizenship after 5 years instead of 8, and allow dual citizenship. The number of citizenship applications is expect to increase dramatically. But wait, it gets worse... [37]
+
 ## Список литературы
 
 1. [Сколько россиян переехало в Сербию с весны 2022 года и какие у них насущные проблемы?](https://internationalwealth.info/life-abroad/skolko-vykhodtsev-iz-rossii-segodnya-zhivet-v-serbii/),  Alexey Astapov, 2 февраля 2023
