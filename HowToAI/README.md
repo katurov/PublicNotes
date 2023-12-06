@@ -43,3 +43,10 @@
 ```
 pip install pyllama -U
 ```
+## For Apple
+
+1. Apple machine learning research [released](https://twitter.com/awnihannun/status/1732184443451019431) Apple' silicon [native MLX](https://github.com/ml-explore/mlx) and [the documentation](https://ml-explore.github.io/mlx/build/html/quick_start.html) for lots of things like:
+  * Transformer language model training.
+  * Large-scale text generation with LLaMA and finetuning with LoRA.
+  * Generating images with Stable Diffusion.
+  * Speech recognition with OpenAI's Whisper.
