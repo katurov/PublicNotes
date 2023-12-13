@@ -109,6 +109,26 @@
 
 * The Bürgerämter have been refusing new citizenship applications since March, because in January, it will be someone else's job. This means that there are 40,000 open cases and an untold number of unopened cases. My friends want to apply, but they can't. But wait, it gets worse... The new central citizenship office takes over in January. It should process 20,000 applications per year if all goes according to plan. Things are not going according to plan: the new central office is 12% short of its staffing goal. But wait, it gets worse... They received 15,100 citizenship applications in 2023 (as of September 30). In other words, around 20,000 applications per year. The central processing office will not catch up. [It will barely keep up](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-17062.pdf). But wait, it gets worse... The citizenship reform is coming. It will qualify people for citizenship after 5 years instead of 8, and allow dual citizenship. The number of citizenship applications is expect to increase dramatically. But wait, it gets worse... [37]
 
+## Турция
+
+[Твиттерный пост](https://x.com/taxfreelt/status/1734484588532015442?s=20) требует проверки по источникам, приведу в виде цитирования на будущее:
+
+> После массовых отказов в ВНЖ из Турции уехали 53000 россиян
+> 
+> Массовый отказ в выдаче вида на жительство в Турции привел к масштабному отъезду россиян. С начала года их количество уменьшилось на 34%. Из Турции уехало около 53 000 граждан России. Неофициальную столицу российских мигрантов – Анталию, по данным агентства Ekonomim, за лето и сентябрь покинули 17 000 иностранцев.
+> 
+> В год войны россияне были желанным гостями. Управление по делам миграции Турции сообщало, что они заняли первую строчку среди иностранцев по числу одобренных за 2022 год заявок на ВНЖ: их было около 154 000. Всего в Турции находятся более 1,1 млн иностранцев с ВНЖ.
+> 
+> Решение об отказе в виде на жительство для россиян и белорусов принято на самом верху в Анкаре, сообщили в одной из администраций регионов в турецкой провинции Мугла. Отказы получают практически все, кто получил ВНЖ после февраля 2022 года.  
+> 
+> Проблемы даже у самых состоятельных. «Влиятельный турецкий арендодатель, сдававший элитную виллу россиянам за несколько десятков тысяч долларов в месяц на берегу моря не смог договорится о ВНЖ через личное знакомство с мэром одного из городов. Россияне уехали», - рассказывает консультант в оформлении ВНЖ.
+> 
+> Пока в Турции около 100 000 россиян с ВНЖ, но их количество продолжит стремительно сокращаться по мере истечения срока ВНЖ.
+> 
+> Президент Торговой палаты Антальи Али Бахар заявил, что количество иностранцев сократилось на 10% по сравнению с предыдущим годом. 
+> 
+> Отказ в ВНЖ уже вызвал ощутимые изменения на рынке Турции. Рынок недвижимости для риелторов практически остановился и они в недоумении, банковские офисы заметно опустели, рассказывает один из россиян. Продажи недвижимости иностранцам обвалились за первые три квартала 2023 года на 29,23%. Президент Палаты риелторов Антальи Исмаил Чаглар заявил, что «пузырь недвижимости и аренды» в Анталье лопнул.
+
 ## Список литературы
 
 1. [Сколько россиян переехало в Сербию с весны 2022 года и какие у них насущные проблемы?](https://internationalwealth.info/life-abroad/skolko-vykhodtsev-iz-rossii-segodnya-zhivet-v-serbii/),  Alexey Astapov, 2 февраля 2023
