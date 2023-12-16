@@ -1,5 +1,22 @@
 # Все то, что я знаю и читаю про ИИ (AI)
 
+## Важная критика
+
+3 April 2023 Rachel Metz ["AI Doesn’t Hallucinate. It Makes Things Up"](https://www.bloomberg.com/news/newsletters/2023-04-03/chatgpt-bing-and-bard-don-t-hallucinate-they-fabricate): 
+
+> Humans have a tendency to anthropomorphize machines. (I have a robot vacuum named Randy.) But while ChatGPT and its ilk can produce convincing-sounding text, they don’t actually understand what they’re saying.
+> 
+> In this case, the term “hallucinate” obscures what’s really going on. It also serves to absolve the systems’ creators from taking responsibility for their products. (Oh, it’s not our fault, it’s just hallucinating!)
+>
+> Saying that a language model is hallucinating makes it sound as if it has a mind of its own that sometimes derails, said Giada Pistilli, principal ethicist at Hugging Face, which makes and hosts AI models.
+> 
+> “Language models do not dream, they do not hallucinate, they do not do psychedelics,” she wrote in an email. “It is also interesting to note that the word ‘hallucination’ hides something almost mystical, like mirages in the desert, and does not necessarily have a negative meaning as ‘mistake’ might.”
+
+## Инструкции от первоисточников
+
+* Original [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) ChatGPT (Dec. 2023): This guide shares strategies and tactics for getting better results from large language models (sometimes referred to as GPT models) like GPT-4. The methods described here can sometimes be deployed in combination for greater effect. We encourage experimentation to find the methods that work best for you.
+
+
 ## Блоги
 
 1. [Superhuman](https://superhuman.beehiiv.com) by Zain Kahn - Learn how to leverage AI to boost your productivity and accelerate your career. Join the world's biggest AI newsletter with 200,000+ readers from companies like Apple, Amazon, Google, Meta, Microsoft and more.
