@@ -133,6 +133,12 @@
 > 
 > Отказ в ВНЖ уже вызвал ощутимые изменения на рынке Турции. Рынок недвижимости для риелторов практически остановился и они в недоумении, банковские офисы заметно опустели, рассказывает один из россиян. Продажи недвижимости иностранцам обвалились за первые три квартала 2023 года на 29,23%. Президент Палаты риелторов Антальи Исмаил Чаглар заявил, что «пузырь недвижимости и аренды» в Анталье лопнул.
 
+## Кипр
+
+* Банки Кипра в период с 2014 по 2022 года закрыли счета 82% клиентам из РФ, сообщает Associated Press со ссылкой на статистику местных финансовых властей. Объем депозитов, которые российские граждане и компании хранят в кипрских банках, за тот же период схлопнулся вчетверо (на 76%). В общей сложности в банковской системе островной республики были закрыты 126 тысяч счетов, главных образом связанных с Россией клиентов, а отказ в банковском обслуживании получили 60 тысяч физических и юридических лиц. Объем «изгнанных» с Кипра средств власти оценивают в 43,5 млрд евро. [41] [42]
+
+* According to the same figures, Cypriot banks severed business ties with nearly 60,000 customers — mostly Russian and Ukrainian nationals — between 2014 and 2022, while some 126,000 accounts have been suspended, amounting to approximately 40 billion euros ($43.5 billion). Letymbiotis said that departing Russian bank deposits are offset by newly arriving international businesses. In 2022, more than 1,600 international companies registered in Cyprus – mostly in tech — including 47 multi-nationals. He said in all, those companies helped create 36,854 direct and indirect jobs, up 42% from 2021. [42]
+
 ## Список литературы
 
 1. [Сколько россиян переехало в Сербию с весны 2022 года и какие у них насущные проблемы?](https://internationalwealth.info/life-abroad/skolko-vykhodtsev-iz-rossii-segodnya-zhivet-v-serbii/),  Alexey Astapov, 2 февраля 2023
@@ -175,4 +181,6 @@
 37. [There are now 40,000 unprocessed citizenship applications in Berlin (up from 27,000 at the end of 2022), but wait, it gets worse...](https://x.com/aboutberlin/status/1721858856748245142?s=20), All About Berlin, 7.11.2023
 38. [В 2023 году гражданство или вид на жительство других стран получили 68 тыс. россиян](https://tass.ru/obschestvo/19377167), ТАСС, 25.11.2023
 39. [Количество получивших ВНЖ и иностранное гражданство россиян удвоилось за год](https://kwuafygewfqtqhif.y1t66t.site/2023/11/25/kolichestvo-poluchivshih-vnzh-i-inostrannoe-grazhdanstvo-rossiyan-udvoilos-za-god-a114234), 25.11.2023
-40. [Средняя температура по загранице](https://www.kommersant.ru/doc/6465418?utm_source=The+Moscow+Times.+Русская+cлужба&utm_campaign=65f791d183-EMAIL_CAMPAIGN_2022_10_31_03_35_COPY_02&utm_medium=email&utm_term=0_b979442beb-65f791d183-481716424)
+40. [Средняя температура по загранице](https://www.kommersant.ru/doc/6465418?utm_source=The+Moscow+Times.+Русская+cлужба&utm_campaign=65f791d183-EMAIL_CAMPAIGN_2022_10_31_03_35_COPY_02&utm_medium=email&utm_term=0_b979442beb-65f791d183-481716424), Ъ, 23.01.2024
+41. [Россия потеряла крупнейший офшор в Европе: банки Кипра закрыли счета 82% клиентов из РФ](https://www.moscowtimes.ru/2024/01/24/peregrev-ekonomiki-usilivaetsya-svobodnih-rabotnikov-i-moschnostei-vse-menshe-a119417), the Moscow Times, 24.01.2024
+42. [Cyprus sees Russian bank deposits plunge as government seeks to clean up its financial image](https://apnews.com/article/cyprus-russia-sanctions-evasion-fd6ad076f6439d3bee8c0252dcd7d7b8), AP, 24.01.2024
