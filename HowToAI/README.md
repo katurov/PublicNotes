@@ -42,12 +42,17 @@
 9. [uizard](https://uizard.io) - помогает нарисовать интерфейс для программы. Киллер-фича - возможность загрузить скриншот, который будет распознан в элементы и после этого доступен для редактирования, словно его перерисовали. Так же обладает возможностью интерактива: можно связывать элементы для перехода, что отлично работает во время демонатрации будущих возможностей. Идеально для обсуждения изменений в программы
 10. [tl;dv](https://tldv.io) - облако, программа и модули для популярных клиентов видеоконференций (например, zoom), помогает получить запись и расшифровку встречи. Плюсы: понимает по русски. Минусы: облако, хочет денег. **Важно**: во время встречи позволяет сделать короткие заметки, как таймкоды, которые после умеет использовать для навигации по видео и тексту. Это интересное приложение, точно стоит его пробовать.
 11. [Remove even the most annoying watermarks from images for free](https://dewatermark.ai) - делает ровно то, что заявлено (удаляет ватермарки). Обещают сервис бесплатным на протяжении всего времени. В комплекте еще три тулзы: [Remove-BG.ai](https://remove-bg.ai) убирает фон на фото, [UP-scales.ai](https://upscales.ai) ап-скейлит изображения, [passportmaker.ai](https://passportmaker.ai) из просто фото делает "паспортное" (внезапный сервис, конечно).
+12. [What Is Chat with RTX?](https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/) Chat With RTX is a demo app that lets you personalize a GPT large language model (LLM) connected to your own content—docs, notes, videos, or other data. Leveraging retrieval-augmented generation (RAG), TensorRT-LLM, and RTX acceleration, you can query a custom chatbot to quickly get contextually relevant answers. And because it all runs locally on your Windows RTX PC or workstation, you’ll get fast and secure results.
 
 ## Важная ремарка про GPU
 
 [Mou](https://github.com/mou) правильно подсказал, что benchmark от геймеров не вполне отражает производительность в задачах ИИ, так что важнее смотреть на количество CUDA ядер, скорость памяти и т.п. При этом нужно оценить минимум памяти карты, судя по всему, это от 6G (меньше моделей просто нет).
 
 [Сами nVidea](https://www.youtube.com/watch?v=L6rJA0z2Kag) про себя и смысл всего этого в интересном ролике
+
+В требованиях к "Chat with RTX" NVIDIA описывает требования к карте, как
+> NVIDIA GeForce™ RTX 30 or 40 Series GPU or NVIDIA RTX™ Ampere or Ada Generation GPU with at least 8GB of VRAM
+на что и следует ориентироваться сегодня
 
 ## Про программирование
 
