@@ -10,6 +10,7 @@
 6. Чуть в сторону и Republika Srpska, но полезно прочитать, так как правовые процедуры схожи у Сербии и Федерации Боснии и Герцеговины: [Как получить регистрацию на авто купленное в РФ](https://github.com/midik/PublicNotes/blob/main/CarCustomsClearance.md) и с чисто российским набором документов. Инструкция с чувством юмора, рекомендую прочитать просто для впечатления ))
 
 7. [Serbia Country Commercial Guide](https://www.trade.gov/country-commercial-guides/serbia-market-overview?section-nav=5477) от Official Website of the International Trade Administration (США)
+8. Кто-то сделал [карту со списком дурных квартир](https://www.google.com/maps/d/viewer?mid=19YcKmasJpwHsfB9kvpoSmRA_qD22yhw&hl=ru&ll=45.253260000000026%2C19.872935399999985&z=10). Как и весь пользовательский контент - все спорно, но хорошо, что она есть.
 
 ## Экстренная помощь (а это важно)
 
