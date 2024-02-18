@@ -88,6 +88,11 @@
 
 * Some say that their monthly expenses are over 2,000 euros, but most of them said they need a minimum of 700 euros to make it through the month. _“Ordinary people with some kind of savings, including myself, seem to get around with 500 to 1,000 euros, of which only the rent is somewhere around 300 to 400 euros,”_ one of the Russians that the Blic interviewed said. [3]
 
+* Ruski turisti, odnosno ljudi iz Rusije koje statistika i dalje vodi  kao turiste (ne kao osobe sa stalnijim prebivalištem), su utrošili i ubedljivo najviše novca boraveći u Srbiji. [...] Ruski državljani koji borave na teritoriji Srbije beleže snažan rast od početka rata u Ukrajini. Tokom 2023. godine bilo ih je 12,1 odsto više, ali ako se poredi kumulativni rast od početka rata u Ukrajini, stopa rasta iznosi 150, 8 odsto. Osim Turske, Srbija je jedna od najbližih destinacija koja nije uvela sankcije za državaljane Ruske Federacije i letovi na relaciji Beograd-Moskva nesmetano funkcionišu. [50]
+
+* Tokom 2023. godine boravak duži od 24 sata u glavnom gradu je prijavilo ukupno 1.462.350 stranih državljana, što je za 300.238 više u odnosu na 2022. godinu. [51]
+
+* В 2023 году было проведено 10 148 публичных собраний /около 3,6 млн участников/, а в 2022 году – 10 287 публичных собраний. [51]
 
 ## Израиль
 
@@ -162,7 +167,7 @@
 > 
 > Отказ в ВНЖ уже вызвал ощутимые изменения на рынке Турции. Рынок недвижимости для риелторов практически остановился и они в недоумении, банковские офисы заметно опустели, рассказывает один из россиян. Продажи недвижимости иностранцам обвалились за первые три квартала 2023 года на 29,23%. Президент Палаты риелторов Антальи Исмаил Чаглар заявил, что «пузырь недвижимости и аренды» в Анталье лопнул.
 
-Турецкий DenizBank, входящий в топ-10 в стране по размеру активов, начал массовую проверку клиентов российского происхождения, по итогом которой некоторые россияне столнулись с закрытием своих счетов. Об этом сообщила в своем телеграм-канале юрист Елена Рязанова, которой пришло письмо из банка. Массовую рассылку также подтвердили РБК посредники, которые помогали россиянам открывать карты в турецких банках. DenizBank — один из немногих банков Турции, который открывал счета россиянам без ВНЖ, напоминает РБК. Однако с начала 2024 года политика банка радикально изменилась: новые клиенты из России получают отказ в 95% случаев, рассказывает банковский посредник Сергей Овсянников, помогавший россиянам открывать счета. «Отделение принимает документы, оформляет заявку на счет, но в итоге клиенты не проходят проверку комплаенса», — говорит он. [49]
+* Турецкий DenizBank, входящий в топ-10 в стране по размеру активов, начал массовую проверку клиентов российского происхождения, по итогом которой некоторые россияне столнулись с закрытием своих счетов. Об этом сообщила в своем телеграм-канале юрист Елена Рязанова, которой пришло письмо из банка. Массовую рассылку также подтвердили РБК посредники, которые помогали россиянам открывать карты в турецких банках. DenizBank — один из немногих банков Турции, который открывал счета россиянам без ВНЖ, напоминает РБК. Однако с начала 2024 года политика банка радикально изменилась: новые клиенты из России получают отказ в 95% случаев, рассказывает банковский посредник Сергей Овсянников, помогавший россиянам открывать счета. «Отделение принимает документы, оформляет заявку на счет, но в итоге клиенты не проходят проверку комплаенса», — говорит он. [49]
 
 ## Кипр
 
@@ -222,3 +227,5 @@
 47. [ФСБ отчиталась о поездках россиян за границу в 2023 году](https://www.rbc.ru/business/05/02/2024/65bcde169a79475d81d18dab?ysclid=ls8gxztuei677413061&from=copy), РБК, 05-02-2024 (есть инфографика)
 48. [Данные програн-службы ФСБ за 2023 год включительно](https://www.fedstat.ru/indicator/38480) работает только из России, данные приложены в папке "48 данные Росстата"
 49. [Один из крупнейших банков Турции начал закрывать счета россиянам](https://wegqkqiuibszctka.8gfpbwj9z.fr/2024/02/15/odin-iz-krupneishih-bankov-turtsii-nachal-zakrivat-scheta-rossiyanam-a121786), 15.02.2024, The Moscow Times
+50. [Prihod od ruskih „turista“ prestigao sve druge, prošle godine 257 miliona evra](https://novaekonomija.rs/ostalo/prihod-od-ruskih-turista-prestigao-sve-druge-prosle-godine-257-miliona-evra), 12.02.2024, Aleksandra Nenadovic, Nova Ekonomija
+51. [Intervju sa načelnikom PU za grad Beograd, Veselinom Milićem: Beograd je najbezbedniji glavni grad](https://www.telegraf.rs/vesti/hronika/3833614-ekskluzivno-intervju-sa-nacelnikom-pu-za-grad-beograd-veselinom-milicem-beograd-je-najbezbedniji-glavni-grad), 11.02.2024, Telegraf TV
