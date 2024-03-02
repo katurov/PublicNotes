@@ -45,6 +45,8 @@ The changes are available for developers who distribute apps in any of the **27 
 
 ## Current state
 
+Resume: the return of the existing functionality for Home Screen web apps with the availability of iOS 17.4 in early March [5]
+
 for 17.4 included [in release notes](https://developer.apple.com/support/dma-and-apps-in-the-eu#dev-qa)
 
 for 17.4.beta2 on 12.02.2024
@@ -61,5 +63,4 @@ for 17.4.beta3 on 13.02.2024
 2. [Europa : PWA or A2HS in standalone no longer works](https://forums.developer.apple.com/forums/thread/745414) on **Apple's suppoer forum**, updatable last checked 14.02.2024
 3. [В бете iOS 17.4 отключили PWA для Евросоюза](https://habr.com/ru/news/792578/) on **Habr RU** explains situation in Russia but from the single point of view, 09.02.2024
 4. [Update on apps distributed in the European Union](https://developer.apple.com/support/dma-and-apps-in-the-eu) by Apple
-5. [Update on apps distributed in the European Union](https://developer.apple.com/support/dma-and-apps-in-the-eu/#ntfqa) by Apple
-6. [Apple says iOS 17.4 won’t remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/), 9to5mac, 01.march.24
+5. [Apple says iOS 17.4 won’t remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/), 9to5mac, 01.march.24
