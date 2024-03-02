@@ -1,5 +1,20 @@
 # Problem with PWA in Apple iOS 17.4 (starts from beta2)
 
+Resume: the return of the existing functionality for Home Screen web apps with the availability of iOS 17.4 in early March
+
+## Latest update (yet)
+
+> Previously, Apple announced plans to remove the Home Screen web apps capability in the EU as part of our efforts to comply with the DMA. The need to remove the capability was informed by the complex security and privacy concerns associated with web apps to support alternative browser engines that would require building a new integration architecture that does not currently exist in iOS.
+>
+> We have received **requests to continue to offer support for Home Screen web apps in iOS**, therefore we will continue to offer the existing Home Screen web apps capability in the EU. This support means **Home Screen web apps continue to be built directly on WebKit** and its security architecture, and align with the security and privacy model for native apps on iOS.
+>
+> Developers and users who may have been impacted by the removal of Home Screen web apps in the beta release of iOS in the EU can expect the return of the existing functionality for Home Screen web apps with the availability of iOS 17.4 in early March.
+
+_[Update on apps distributed in the European Union](https://developer.apple.com/support/dma-and-apps-in-the-eu/#ntfqa) by Apple found by [Apple says iOS 17.4 won’t remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/) on 1st March 2024_
+
+> To me, this is an example of the vagueness of the Digital Markets Act. Reading between the lines, it sounds like Apple thought it couldn’t offer WebKit-powered Home Screen apps in the European Union because of the DMA’s guidelines on browser equality.
+(c) Chance Miller in [Apple says iOS 17.4 won’t remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/)
+
 **Why don't users in the EU have access to Home Screen web apps?** [4](https://developer.apple.com/support/dma-and-apps-in-the-eu)
 
 > To comply with the Digital Markets Act, Apple has done an enormous amount of engineering work to add new functionality and capabilities for developers and users in the European Union — including more than 600 new APIs and a wide range of developer tools.
@@ -46,3 +61,5 @@ for 17.4.beta3 on 13.02.2024
 2. [Europa : PWA or A2HS in standalone no longer works](https://forums.developer.apple.com/forums/thread/745414) on **Apple's suppoer forum**, updatable last checked 14.02.2024
 3. [В бете iOS 17.4 отключили PWA для Евросоюза](https://habr.com/ru/news/792578/) on **Habr RU** explains situation in Russia but from the single point of view, 09.02.2024
 4. [Update on apps distributed in the European Union](https://developer.apple.com/support/dma-and-apps-in-the-eu) by Apple
+5. [Update on apps distributed in the European Union](https://developer.apple.com/support/dma-and-apps-in-the-eu/#ntfqa) by Apple
+6. [Apple says iOS 17.4 won’t remove Home Screen web apps in the EU after all](https://9to5mac.com/2024/03/01/apple-home-screen-web-apps-ios-17-eu/), 9to5mac, 01.march.24
