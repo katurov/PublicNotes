@@ -1,0 +1,209 @@
+# see detailed explanation of the data in https://docs.google.com/spreadsheets/d/1hTn8J7K8WJbWYvmoo10GQWm__2cTVg4dCsM_ZocbgiQ/edit#gid=0 
+# timestamp in the CSV is UTC except when data_source = 6 it is GMT+9(Tokyo)-1 = GTM+8 (this is different from Google Sheet)
+# volunteer ending with 000 = voter filled in QR code single-use survey form themselves
+
+# changes:
+# v3 - fixed timestamp timezone which earlier was incorrectly shifted back 1 hour
+# v2 - updated 47 records in Sweden to reflect actual time survey responses were collected
+# v1 - removed 1 test record in Costa-Rica
+
+cols = ['voting_station', 'country', 'city', 'data_source', 'volunteer', 'timestamp',  
+        'gender', 'age', 'abroad', 'eta', 'trust', 'candidate', 'candidate_is_na', 
+        'candidate_is_davankov', 'candidate_is_putin', 'candidate_is_slutsky', 'candidate_is_kharitonov', 
+        'candidate_is_ballot_invalidated', 'candidate_is_ballot_removed']
+
+data_source_codes = {
+    'Общая электронная анкета' : 1, 
+    'Электронная анкета избирателя по одноразовым QR кодам' : 2, 
+    'Электронная анкета - Прага' : 3, 
+    'Электронная анкета - Стокгольм' : 4, 
+    'Электронная анкета - Дубай': 5, 
+    'Электронная анкета - Токио' : 6, 
+    'Статистика ответов - Веллингтон' : 7, 
+    'Статистика ответов - Сидней' : 8
+}
+
+# https://www.iban.com/country-codes
+country_codes = {
+    'Czech' : 203, # CZ
+    'Kyrgyzstan' : 417, # KG
+    'Poland' : 616, # PL 
+    'Vietnam' : 704, # VN 
+    'Ireland' : 372, # IE
+    'Costa Rica': 188, # CR
+    'Spain' : 724, # ES 
+    'Kazakhstan' : 398, # KZ 
+    'Italy' : 380, # IT 
+    'Croatia' : 191, # HR 
+    'Australia' : int('036'), # AU
+    'Germany' : 276, # DE 
+    'Finland' : 246, # FI
+    'Türkiye' : 792, # TR 
+    'Slovakia' : 703, # SK 
+    'Montenegro' : 499, # ME 
+    'Serbia' : 688, # RS 
+    'Armenia' : int('051'),  # AM
+    'UAE' : 784, # AE
+    'Lithuania' : 440, # LT
+    'Switzerland' : 756, # CH 
+    'Israel' : 376, # IL
+    'Netherlands' : 528, # NL 
+    'Great Britain' : 826, # GB 
+    'Hungary': 348, # HU 
+    'New Zealand' : 554, # NZ 
+    'Argentina' : int('032'), # AR
+    'Estonia': 233, # EE 
+    'Sweden' : 752, # SE
+    'Uzbekistan' : 860, # UZ 
+    'Cyprus' : 196, # CY 
+    'Thailand' : 764, # TH 
+    'Luxembourg' : 442, # LU 
+    'Portugal' : 620, # PT 
+    'Canada' : 124, # CA 
+    'France' : 250, # FR 
+    'Japan' : 392, # JP 
+    'Denmark' : 208, # DK 
+    'Greece' : 300, # GR 
+    'USA' : 840, # US 
+    'Moldova' : 498, # MD 
+    'Belgium' : int('056'), # BE
+    'Austria' : int('040'), # AT
+    'Norway' : 578 # NO
+}
+
+# self-generated
+city_codes = {
+    'Almaty' : 398001,
+    'Ankara' : 792001,
+    'Antalya' : 792003,
+    'Athens' : 300001,
+    'Bangkok' : 764001,
+    'Barcelona': 724001,
+    'Belgrade' : 688001,
+    'Berlin': 276001,
+    'Bern': 756001,
+    'Bishkek': 417001,
+    'Bonn': 276002,
+    'Bratislava': 703001,
+    'Brussels': int('056001'),
+    'Budapest': 348001,
+    'Buenos Aires': int('032001'),
+    'Copenhagen': 208001,
+    'Dubai': 784001,
+    'Dublin': 372001,
+    'Gdansk': 616003,
+    'Geneva': 756002,
+    'Genoa': 380003,
+    'Gyumri': int('051002'),
+    'Hague': 528001,
+    'Haifa': 376001,
+    'Hanoi': 704001,
+    'Helsinki': 246001,
+    'Istanbul': 792002,
+    'Jerusalem': 376001,
+    'Kishinev': 498001,
+    'Krakow': 616002,
+    'Lisbon': 620001,
+    'London': 826001,
+    'Luxembourg': 442001,
+    'Madrid': 724002,
+    'Milan': 380002,
+    'Montreal': 124002,
+    'NY': 840001,
+    'Nicosia': 194001,
+    'Oslo': 578001,
+    'Ottawa': 124003,
+    'Paris': 250001,
+    'Podgorica': 499001,
+    'Poznan': 616004,
+    'Prague': 203001,
+    'Rome': 380001,
+    'Salzburg': int('040001'),
+    'Samarkand': 860002,
+    'San Jose': 188001,
+    'Stockholm': 752001,
+    'Strasbourg': 250002,
+    'Sydney': int('036001'),
+    'Tallinn': 233001,
+    'Tashkent': 860001,
+    'Tel Aviv': 376002,
+    'Tokyo': 392001,
+    'Toronto': 124001,
+    'Trabzon': 792004,
+    'Vienna': int('040002'),
+    'Vilnius': 440001,
+    'Warsaw': 616001,
+    'Wellington': 554002,
+    'Yerevan': int('051001'),
+    'Zagreb': 191001
+}
+
+trust_codes = {
+    '' : 0,
+    'Не хочу отвечать' : 1,
+    'Затрудняюсь ответить' : 2,
+    'Точно нет' : 3, 
+    'Скорее НЕ доверяю' : 4, 
+    'Скорее доверяю' : 5, 
+    'Точно да' : 6, 
+}
+
+gender_codes = {
+    '' : 0, 
+    'Не хочу отвечать' : 1, 
+    'Другое': 2, 
+    'Мужской' : 3,
+    'Женский' : 4,
+}
+
+age_codes = {
+    '' : 0, 
+    'Не хочу отвечать' : 1, 
+    '18-24' : 18, 
+    '25-44' : 25,
+    '45-64' : 45, 
+    '65+' : 65, 
+}
+
+abroad_codes = {
+    '' : 0, 
+    'Не хочу отвечать' : 1,
+    'Турист/ка (живу в РФ)' : 2, 
+    'Меньше 6 месяцев' : 6, 
+    '6 месяцев - 2 года (после февраля 2022)' : 15, 
+    'Менее 2 лет' : 24, 
+    '2 - 5 лет' : 42, 
+    'Более 5 лет' : 60, 
+    '6-10 лет': 96, 
+    'Более 10 лет' : 120, 
+}
+
+eta_codes = {
+    '' : 0, 
+    'Не хочу отвечать' : 1, 
+    '<30 минут' : 30, 
+    '30 мин - 1 час' : 45, 
+    '1 - 2 часа' : 90, 
+    'Более 2 часов' : 120, 
+    '2 - 3 часа' : 150, 
+    '3 - 4 часа' : 210,
+    'Более 4 часов (остаюсь ночевать в этом городе)' : 240, 
+}
+
+candidate_codes = {
+    'Не хочу отвечать' : 0,
+    'В. А. Даванков' : 1, 
+    'В.В. Путин' : 2, 
+    'Л.В. Слуцкий' : 3,  
+    'Н.М. Харитонов' : 4, 
+    'Недействительный бюллетень (ни одной галочки, несколько галочек)' : 5, 
+    'Бюллетень унесён/выброшен/порван' : 6, 
+}
+
+History:
+v3:
+- timestamps converted to UTC
+
+v2:
+- updated timestamps for 47 responses in Stockholm
+- realised that timestamps are in UTC-1 and updated documentation
