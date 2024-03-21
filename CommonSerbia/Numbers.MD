@@ -99,6 +99,8 @@
 
 * В 2023 году было проведено 10 148 публичных собраний /около 3,6 млн участников/, а в 2022 году – 10 287 публичных собраний. [51]
 
+* U Srbiji, kazao je Vučić, nema puno Rusa i „oni su mahom antiputinovski orijentisani, dok su Ukrajinci u Srbiji mahom ruskojezički i proputinovski orijentisani“. Na ovu Vučićevu konstataciju jutros je stigao odgovor iz Moskve. [57]
+
 ## Израиль
 
 * According to Jewish Agency data, 37,364 Olim arrived from Russia between January 1 and December 1, 2022, followed by 14,680 from Ukraine, 3,500 from North America with help from Nefesh B’Nefesh, 2,049 from France, 1,993 from Belarus, 1,498 from Ethiopia as part of Operation Tzur Israel, 985 from Argentina, 526 from the United Kingdom, 426 from South Africa, and 356 from Brazil. Upon year’s end, 2022’s final tally will be available. [13] Число репатриантов стало рекордным за 23 года. В прошлом году в страну въехали лишь 28,6 тыс. человек. Агентство учитывало период с 1 января до 1 декабря, причем не только тех, кто репатриировался через Еврейское агентство, но и тех, кто приехал в Израиль как турист, а затем прошел через процесс получения гражданства. [14]
@@ -254,3 +256,4 @@ __(если не указано иное, источник - статья Forbes
 54. [Цены на аренду жилья в Грузии упали почти на 30% 2024](https://geoinform.ge/ka/tseny-na-arendu-zhilya-v-gruzii-upali-pochti-na-30-2024/), GeoInform, 27 января 2024 г., 3:11
 55. [Россияне за год направили более триллиона рублей на сбережения за рубежом](https://www.moscowtimes.ru/2024/03/11/rossiyane-za-god-napravili-bolee-trilliona-rublei-na-sberezheniya-za-rubezhom-a124074), The Moscow Times, 11-03-2024
 56. [ОБЗОР РИСКОВ ФИНАНСОВЫХ РЫНКОВ](https://www.cbr.ru/Collection/Collection/File/48852/ORFR_2024-01.pdf), ЦБ РФ, Январь 2024 (прилагается)
+57. [Vučiću stigao odgovor iz Kremlja zbog tvrdnji da Rusi u Srbiji ne podržavaju Putina](https://www.danas.rs/svet/vucicu-stigao-odgovor-iz-kremlja/), Danas, 08.02.2024.
