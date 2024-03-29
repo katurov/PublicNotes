@@ -16,6 +16,7 @@
 
 * Original [Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering) ChatGPT (Dec. 2023): This guide shares strategies and tactics for getting better results from large language models (sometimes referred to as GPT models) like GPT-4. The methods described here can sometimes be deployed in combination for greater effect. We encourage experimentation to find the methods that work best for you.
 
+* Отличный пост от Вастрики: [Кто побеждает в борьбе за технологии и что изменилось в AI с приходом опенсорса](https://vas3k.club/post/22008/). _Это история о дерзком гамбите Марка Цукерберга и мои размышления о том, как Бигтех компании будут делить рынок AI с Опенсорсом._
 
 ## Блоги
 
