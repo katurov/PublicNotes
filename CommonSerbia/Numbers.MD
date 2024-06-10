@@ -74,6 +74,12 @@
 
 * Информация о зарубежных счетах по данным на 31 декабря 2023 года приводится в презентации «Итоги деятельности ФНС России» за прошлый год: 1,8 млн зарубежных счетов у российских резидентов. Их число возросло на 164%. Число владельцев счетов увеличилось на 70%, до 539,1 тыс. человек. В официальном перечне ФНС по юрисдикциям, с которыми происходит обмен финансовой информацией, находятся 85 государств и 11 территорий. В списке стран, которые не обмениваются с Россией финансовой информацией,— 102 юрисдикции. Последний раз ФНС раскрывала информацию о полученных данных по зарубежным счетам россиян в 2021 году. Тогда службе было известно о 700 тыс. счетах на сумму больше 13 трлн руб. у 400 тыс. россиян. В октябре 2023 года замглавы ФНС Юлия Шепелева говорила о росте числа таких счетов на 30% к 2020 году, но не приводила абсолютных значений. Увеличение иностранных счетов в 2022 году может быть связано с тем, что россияне искали альтернативу ушедшим Visa и Mastercard в дружественных странах, считает партнер Б1 Мария Фролова. [58]
 
+* Федеральная налоговая служба в 2023 году получила информацию об 1,8 млн зарубежных счетов у российских резидентов. Их число возросло на 164%. Число владельцев счетов увеличилось на 70%, до 539,1 тыс. человек. Последний раз ФНС раскрывала информацию о полученных данных по зарубежным счетам россиян в 2021 году. Тогда службе было известно о 700 тыс. счетах на сумму больше 13 трлн руб. у 400 тыс. россиян. В октябре 2023 года замглавы ФНС Юлия Шепелева говорила о росте числа таких счетов на 30% к 2020 году, но не приводила абсолютных значений. [61]
+
+* Согласно данным, которые изучили эксперты, с начала российского вторжения в Украину по начало 2024 года, россияне могли потратить $2,4 млрд на покупку недвижимости в Дубае, а еще $3,9 млрд граждане РФ инвестировали в покупку объектов на стадии возведения, в последнем случае был внесен только первый платеж в размере 10-20%, а финальная стоимость может быть значительно выше.
+
+* Согласно утечкам, на которые опираются авторы доклада, перед началом войны россияне владели недвижимостью в Дубае на $3,7 млрд, больше граждан РФ в эмират инвестировали только граждане Индии и Великобритании. Авторы доклада отмечают, что указанная сумма в $6,3 млрд — неточная оценка, так как исследователи использовали различные источники, в том числе подписанные контракты по коммунальным услугам и данные об аренде жилплощади. Авторы доклада уточнили, что россияне начали продавать ту недвижимость, которая была приобретена в 2022–2023 годах. По данным Bloomberg, приток людей и капиталов замедляется, а поселившиеся в Дубае сокращают вложения и возвращаются в Россию либо ищут возможности для переезда в более привычные для жизни страны. «Тренд идет вниз». По данным риелторской компании Betterhomes, держатели российских паспортов, занявшие в 2022 г. 1-е место по покупкам недвижимости в ОАЭ, в 2023 г. переместились на 3-е место. [62]
+
 ## Сербия:
 
 * Согласно переписи населения Сербии в 2011 году выходцев из России в стране насчитывалось всего 3247 человек. Это меньше, чем даже украинцев - 4903 [1]
@@ -102,6 +108,14 @@
 * В 2023 году было проведено 10 148 публичных собраний /около 3,6 млн участников/, а в 2022 году – 10 287 публичных собраний. [51]
 
 * U Srbiji, kazao je Vučić, nema puno Rusa i „oni su mahom antiputinovski orijentisani, dok su Ukrajinci u Srbiji mahom ruskojezički i proputinovski orijentisani“. Na ovu Vučićevu konstataciju jutros je stigao odgovor iz Moskve. [57]
+
+* Prema poslednjem popisu stanovništva, u Novom Sadu ima više od 2.700 Rusa, ali je nezvanično taj broj znatno veći. Agencija za privredne registre je ranije saopštila da su državljani Rusije do kraja 2023. registrovali gotovo 9.000 novih kompanija u Srbiji. Rusi i Ukrajinci u Novom Sadu već imaju svoje vrtiće, škole, kafiće, restorane, salone lepote, pa nije čudo da će im biti jednostavnije da u supermarketu pazare robu iz svojih ratom zahvaćenih zemalja. Ipak, u Srbiji je već razvijen lanac ruskih marketa preko Torgservis grupa, koja u Srbiji posluje preko dve kompanije, odnosno dve vrste marketa - Svetofor i Mere market. [59]
+
+* Grad Beograd je na tržištu stanova u 2023. godini imao dominantan udeo u ukupnoj vrednosti prodaje stanova sa 61 odsto, pokazuje izveštaj Republičkog geodetskog zavoda. Za kupovinu stanova u Beogradu izdvojena je 2,1 milijarda evra. Od početka rata u Ukrajini, u Srbiju je došao veliki broj Rusa, a samo u 2023. godini je 20.000 radnika došlo iz Rusije. Dolazak velikog broja Rusa uticao je i na cene iznajmljivanja i kupovine stanova, pretežno u Beogradu. "Određen broj Rusa koji su iznajmljivali stanove odlučuje se za kupovinu imajući u vidu trenutnu situaciju. Ruski državljani su u 2023. godini uložili novac u nepokretnosti u Srbiji u iznosu većem od 180 miliona evra, što je vrednost tržišta nepokretnosti Niša", navodi Štrbac.  [60]
+
+* Выжимка [средних (медианных) ЗП по IT](https://docs.google.com/spreadsheets/d/1ftu1XkTm45sh6OvjPNc6enVtsgZ9WTz_BTz8EVxLrIQ/edit?usp=sharing) весной 2024
+
+
 
 ## Израиль
 
@@ -260,3 +274,7 @@ __(если не указано иное, источник - статья Forbes
 56. [ОБЗОР РИСКОВ ФИНАНСОВЫХ РЫНКОВ](https://www.cbr.ru/Collection/Collection/File/48852/ORFR_2024-01.pdf), ЦБ РФ, Январь 2024 (прилагается)
 57. [Vučiću stigao odgovor iz Kremlja zbog tvrdnji da Rusi u Srbiji ne podržavaju Putina](https://www.danas.rs/svet/vucicu-stigao-odgovor-iz-kremlja/), Danas, 08.02.2024.
 58. [Число зарубежных счетов у россиян, о которых известно ФНС, в 2022 году выросло в 2,6 раза](https://www.kommersant.ru/doc/6608884?utm_source=The+Moscow+Times.+Русская+cлужба&utm_campaign=cbd635c270-EMAIL_CAMPAIGN_2022_10_31_03_35_COPY_02&utm_medium=email&utm_term=0_b979442beb-cbd635c270-481716424), 01.04.2024, 04:25, Ъ
+59. [U Novi Sad sa Rusima i Ukrajincima stižu i njihovi proizvodi - otvara se supermarket](https://www.021.rs/story/Novi-Sad/Vesti/373547/U-Novi-Sad-sa-Rusima-i-Ukrajincima-stizu-i-njihovi-proizvodi-otvara-se-supermarket.html), 021, NOVI SAD 23.04.2024.
+60. [Rusi u Srbiji uložili 180 miliona evra u kupovinu stanova](https://rs.bloombergadria.com/bloomberg-adria-tv/bloomberg-adria-tv/54986/rusi-u-srbiji-potrosili-180-miliona-evra-na-kupovinu-stanova/news), Jelisaveta Lazarević 21. mart 2024, 13:12
+61. [Число зарубежных счетов у россиян, о которых известно ФНС, в 2022 году выросло в 2,6 раза](https://www.kommersant.ru/doc/6608884?utm_source=The+Moscow+Times.+Русская+cлужба&utm_campaign=cbd635c270-EMAIL_CAMPAIGN_2022_10_31_03_35_COPY_02&utm_medium=email&utm_term=0_b979442beb-cbd635c270-481716424), Ъ 01.04.2024, 04:25
+62. [Россияне потратили больше $6 млрд на недвижимость в Дубае](https://www.moscowtimes.ru/2024/05/16/rossiyane-potratili-bolshe-6mlrd-nanedvizhimost-vdubae-a130974), The Moscow Times, 16.05.2024
