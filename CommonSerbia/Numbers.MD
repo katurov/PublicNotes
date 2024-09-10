@@ -124,6 +124,7 @@
 
 * Выжимка [средних (медианных) ЗП по IT](https://docs.google.com/spreadsheets/d/1ftu1XkTm45sh6OvjPNc6enVtsgZ9WTz_BTz8EVxLrIQ/edit?usp=sharing) весной 2024
 
+* Between February 2022 and mid-2023, more than 30,000 Russians registered for temporary residence in Serbia, the latest interior ministry data show. Officials did not provide data for the comparative period before this but said that the numbers represented a sharp increase. During this influx, Russians established 11,081 businesses across various sectors, from internet-based services to hospitality and sports schools, according to Serbia's business registry. [66]
 
 
 ## Израиль
@@ -290,3 +291,4 @@ __(если не указано иное, источник - статья Forbes
 63. [Как устроена «Золотая корона», как госбанки возвращают айтишников и какие игры спонсирует государство](https://llpjudfpnekggsvz.oia7ds95vb0e.live/kak-ustroena-zolotaya-korona-kak-gosbanki-vozvrashchayut-aytishnikov-i-kakie-igry-sponsiruet-gosudarstvo), the Bell, 23 ОКТЯБРЯ 2022 ИСТОЧНИК: THE BELL
 64. [Не менее 2500 ученых порвали связи с Россией после начала войны. Особенно быстро уезжают молодые. Исследование «Новой-Европа»](https://novayagazeta.eu/articles/2024/01/18/utechka-vysokoi-stepeni) 18 января 2024Олег Левин, специально для «Новой газеты Европа»
 65. [После начала войны из России уехали и не вернулись около 650 тысяч человек: исследование The Bell](https://thebell.io/posle-nachala-voyny-iz-rossii-uekhali-i-ne-vernulis-bolshe-700-tysyach-chelovek-issledovanie-the-bel) 16 ИЮЛЯ 2024 ИСТОЧНИК: THE BELL
+66. [A mini Russia emerges in Serbia as thousands flee war](https://www.reuters.com/world/europe/mini-russia-emerges-serbia-thousands-flee-war-2024-09-09/) By Aleksandar Vasovic September 9, 20248:51 PM GMT+2
