@@ -41,6 +41,11 @@
 3. [Повышение НДФЛ с 2025 года: отвечаем на частые вопросы](https://1c-o.ru/blog/articles/povyshenie-ndfl-s-2025-goda-otvechaem-na-chastye-voprosy#:~:text=Чем%20новая%20шкала%20НДФЛ%20отличается,облагаться%20уже%20по%20ставке%2018%25.), Якшилова Наталья, Руководитель отдела продаж 1С
 4. [Как с 2025 г. применять новые ставки НДФЛ и прогрессивную шкалу](https://www.consultant.ru/news/395/) © КонсультантПлюс, 1997-2024
 
+### Где попробовать
+
+[Коллега](https://www.linkedin.com/feed/update/urn:li:activity:7274423186199375872?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7274423186199375872%2C7274875203879370752%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287274875203879370752%2Curn%3Ali%3Aactivity%3A7274423186199375872%29) Никита Кравчук сделал [калькулятор](https://docs.google.com/spreadsheets/d/1NC1iq7aQDA9cCW7dHmrsLPluz3v-l5M8hLS4sgprXEQ/edit?gid=112840922#gid=112840922) для резидентов. Копируйте себе, можно прикинуть происходящее.
+
+
 ## Интересные детали, которые стоит учесть
 
 ### О доходах
