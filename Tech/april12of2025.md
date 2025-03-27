@@ -114,3 +114,7 @@ play :f4, release: 2, amp: 0.5, cutoff: 40  # Последняя нота, ка�
 [Why Did The Mars Helicopter Disappear?](https://youtu.be/20vUNgRdB4o?si=8p8aDi1NntwkWz15) - про то, как работают обычные процессоры на Марсе
 
 [Инженер строит свою ракету](https://www.youtube.com/@BPSspace/videos)
+
+[Tracking and Chasing Weather Balloons with TTGO LoRa Board and Raspberry Pi. Fun and Adventure](https://youtu.be/vQfztG60umI?si=r0gBKeQzlB0m2qGa) и сопутствующие материалы: [карта](https://radiosondy.info/sonde_table.php?table=meteo_service&ListDown=1) (есть 6 мест запуска в Сербии, некоторые и садятся в Сербии)
+
+[QO-100 Reach a geostationary satellite on Wi-Fi frequency?](https://www.youtube.com/watch?v=JbXaBDRQ-q0&list=PL3XBzmAj53Rk0AG8yK06CZU1LeSDxnN-9) - очень крутой проект
