@@ -238,3 +238,7 @@ play :f4, release: 2, amp: 0.5, cutoff: 40  # Последняя нота, ка�
 [QO-100 Reach a geostationary satellite on Wi-Fi frequency?](https://www.youtube.com/watch?v=JbXaBDRQ-q0&list=PL3XBzmAj53Rk0AG8yK06CZU1LeSDxnN-9) - очень крутой проект
 
 [Как позвонить на МКС](https://youtu.be/xLt5Vvgc1vA?si=ZCl48oluQBnHyO5x)
+
+[Чем мешают спутники астрономам](https://www.scientificamerican.com/article/as-starlink-and-other-satellites-proliferate-astronomers-learn-to-manage/#:~:text=But%20the%20rising%20number%20can,adding%20pollution%20to%20the%20atmosphere.) и о том, что стало просто невозможно
+
+[HOW TO install Satchecker](https://github.com/iausathub/satchecker/wiki/setup) - база спутников в реальном времени, у меня заработал только на Windows
