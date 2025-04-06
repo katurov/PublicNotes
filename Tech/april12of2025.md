@@ -242,3 +242,5 @@ play :f4, release: 2, amp: 0.5, cutoff: 40  # Последняя нота, ка�
 [Чем мешают спутники астрономам](https://www.scientificamerican.com/article/as-starlink-and-other-satellites-proliferate-astronomers-learn-to-manage/#:~:text=But%20the%20rising%20number%20can,adding%20pollution%20to%20the%20atmosphere.) и о том, что стало просто невозможно
 
 [HOW TO install Satchecker](https://github.com/iausathub/satchecker/wiki/setup) - база спутников в реальном времени, у меня заработал только на Windows
+
+[Готовые наборы для радиоастрономии](https://www.linkedin.com/posts/dlaskov_technology-satellite-data-activity-7314327950055682048-fGZU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAQHc3IBVmqsD0FIYO4SgU3DZitUo9UcSkM) и получения данных со спутников
