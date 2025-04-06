@@ -9,7 +9,7 @@ This is the RCWL-0516, a mini-radar motion sensor module that features the RCWL-
 * Output voltage (trigger active): 3.2 to 3.4V
 * Output current: 100mA max
 * Operating frequency: ~3.2GHz
-* Pin 12 on U1, (is the output of the 2nd OpAmp) can be used to understand a motion dynamics
+* [Pin 12 on U1](https://www.rogerclark.net/investigating-a-rcwl-9196-rcwl-0516-radar-motion-detector-modules/), (is the output of the 2nd OpAmp) can be used to understand a motion dynamics
 
 The PCB has an onboard 3.3V voltage regulator that can supply up to 100mA if required. I don't plan to use this capability but it is useful when testing, to power local visual or audible indicators.
 
@@ -22,3 +22,4 @@ If wind can trigger Pin12 is it possible to use RCWL-0516 for understanding the 
 1. [RCWL-0516 Microwave Motion Sensor Review](https://www.dreamgreenhouse.com/reviews/sensors/RCWL0516.php) - with ideas how to make a case and a bit about how to stop the signal propagation. Useful.
 2. [RCWL-0516 information](https://github.com/jdesbonnet/RCWL-0516) - contains description of pins (like using photo-resistor to prevent alarm on a daylight)
 3. [excellent video by Andreas Spiess on YouTube](https://www.youtube.com/watch?v=9WiJJgIi3W0)
+4. Explanation about [Pin 12 on U1](https://www.rogerclark.net/investigating-a-rcwl-9196-rcwl-0516-radar-motion-detector-modules/)
