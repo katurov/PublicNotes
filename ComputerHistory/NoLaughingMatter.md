@@ -7,7 +7,7 @@ Author Grady Booch provides an audio recording of his On Computing column, in wh
 # Не до смеха.  
 
 > В чем разница между листьями и машиной? <br />
-> Одно ты сметаешь и сгребаешь, другое — мчишься и ломаешь.  
+> Одно ты сметаешь и сгребаешь, другое — мчишься и ломаешь. (_One you brush and rake, the other you rush and break_)
 
 > Инженер по качеству заходит в бар. <br />
 > Заказывает пиво. <br />
