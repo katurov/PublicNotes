@@ -47,112 +47,263 @@
 
 ## Как использовать токен для бесплатного AI
 
-Это **LM Studio**, будет доступно до выхода ролика на YouTube. Когда ролик выйдет, вы можете связаться со мной и договориться, если в вашем проекте пригодится Community Server.
+Это Ollama сервер, поднятый для своих. Чтобы им пользоваться, нужно получить от меня аккаунт. Просто напишите мне, наверняка я смогу помочь.
+
+Что важно прочитать перед началом:
+* [Какие модели есть и могут быть установлены](https://ollama.com/library) - это довольно много, но на мою 3060ti/8G эффективно работают модели до 7b включительно. Приоритет отдается моделям для програмирования, обратите внимание на специфические модели, например для SQL.
+* [API endpoints](https://docs.openwebui.com/getting-started/api-endpoints) - это инструкция как работать с этим по API
+* API key в личном кабинете в openWebUI (нужно залогиниться)
 
 ### Получить список моделей, которые загружены
 
 ```bash
-curl http://llm.teamof.top/v1/models -H "X-Auth-Token: <TOKEN>"
+curl -H "Authorization: Bearer YOUR_API_KEY" http://llm.teamof.top/api/models
 ```
 
 ```JSON
-{
-  "data": [
+"data": [
     {
-      "id": "mistralai/mistral-7b-instruct-v0.3",
+      "id": "starcoder:7b",
+      "name": "starcoder:7b",
       "object": "model",
-      "owned_by": "organization_owner"
+      "created": 1751202800,
+      "owned_by": "ollama",
+      "ollama": {
+        "name": "starcoder:7b",
+        "model": "starcoder:7b",
+        "modified_at": "2025-06-28T23:21:50.0156587+02:00",
+        "size": 4295251067,
+        "digest": "53fdbc3a200669b70c211de92753cff177d391c5a0dc22b098c9a541cfd5ae33",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "starcoder",
+          "families": null,
+          "parameter_size": "7B",
+          "quantization_level": "Q4_0"
+        },
+        "connection_type": "local",
+        "urls": [
+          0
+        ]
+      },
+      "connection_type": "local",
+      "tags": [],
+      "actions": [],
+      "filters": []
     },
     {
-      "id": "google/gemma-2-9b",
+      "id": "llama2-uncensored:7b",
+      "name": "llama2-uncensored:7b",
       "object": "model",
-      "owned_by": "organization_owner"
+      "created": 1751202800,
+      "owned_by": "ollama",
+      "ollama": {
+        "name": "llama2-uncensored:7b",
+        "model": "llama2-uncensored:7b",
+        "modified_at": "2025-06-28T23:19:56.6520328+02:00",
+        "size": 3825819449,
+        "digest": "44040b9222331f7eacd27ec9254e42de585af28d2c5d1211cdaeb3ffa361fe3f",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": null,
+          "parameter_size": "7B",
+          "quantization_level": "Q4_0"
+        },
+        "connection_type": "local",
+        "urls": [
+          0
+        ]
+      },
+      "connection_type": "local",
+      "tags": [],
+      "actions": [],
+      "filters": []
     },
     {
-      "id": "google/gemma-3-4b",
+      "id": "codellama:7b",
+      "name": "codellama:7b",
       "object": "model",
-      "owned_by": "organization_owner"
+      "created": 1751202800,
+      "owned_by": "ollama",
+      "ollama": {
+        "name": "codellama:7b",
+        "model": "codellama:7b",
+        "modified_at": "2025-06-28T23:18:05.610951+02:00",
+        "size": 3825910662,
+        "digest": "8fdf8f752f6e80de33e82f381aba784c025982752cd1ae9377add66449d2225f",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": null,
+          "parameter_size": "7B",
+          "quantization_level": "Q4_0"
+        },
+        "connection_type": "local",
+        "urls": [
+          0
+        ]
+      },
+      "connection_type": "local",
+      "tags": [],
+      "actions": [],
+      "filters": []
     },
     {
-      "id": "google/gemma-3-12b",
+      "id": "qwen2.5-coder:7b",
+      "name": "qwen2.5-coder:7b",
       "object": "model",
-      "owned_by": "organization_owner"
+      "created": 1751202800,
+      "owned_by": "ollama",
+      "ollama": {
+        "name": "qwen2.5-coder:7b",
+        "model": "qwen2.5-coder:7b",
+        "modified_at": "2025-06-28T23:12:23.1398924+02:00",
+        "size": 4683087561,
+        "digest": "dae161e27b0e90dd1856c8bb3209201fd6736d8eb66298e75ed87571486f4364",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "qwen2",
+          "families": [
+            "qwen2"
+          ],
+          "parameter_size": "7.6B",
+          "quantization_level": "Q4_K_M"
+        },
+        "connection_type": "local",
+        "urls": [
+          0
+        ]
+      },
+      "connection_type": "local",
+      "tags": [],
+      "actions": [],
+      "filters": []
     },
     {
-      "id": "text-embedding-nomic-embed-text-v1.5",
+      "id": "mistral:latest",
+      "name": "mistral:latest",
       "object": "model",
-      "owned_by": "organization_owner"
+      "created": 1751202800,
+      "owned_by": "ollama",
+      "ollama": {
+        "name": "mistral:latest",
+        "model": "mistral:latest",
+        "modified_at": "2025-06-28T22:39:09.0360699+02:00",
+        "size": 4113301822,
+        "digest": "3944fe81ec14610e0852c3d915768ee8d507ea541387fdfcbbf9edaa0c757734",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": [
+            "llama"
+          ],
+          "parameter_size": "7.2B",
+          "quantization_level": "Q4_0"
+        },
+        "connection_type": "local",
+        "urls": [
+          0
+        ]
+      },
+      "connection_type": "local",
+      "tags": [],
+      "actions": [],
+      "filters": []
+    },
+    {
+      "id": "llama3.1:latest",
+      "name": "llama3.1:latest",
+      "object": "model",
+      "created": 1751202800,
+      "owned_by": "ollama",
+      "ollama": {
+        "name": "llama3.1:latest",
+        "model": "llama3.1:latest",
+        "modified_at": "2025-06-28T22:37:16.393551+02:00",
+        "size": 4920753328,
+        "digest": "46e0c10c039e019119339687c3c1757cc81b9da49709a3b3924863ba87ca666e",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": [
+            "llama"
+          ],
+          "parameter_size": "8.0B",
+          "quantization_level": "Q4_K_M"
+        },
+        "connection_type": "local",
+        "urls": [
+          0
+        ]
+      },
+      "connection_type": "local",
+      "tags": [],
+      "actions": [],
+      "filters": []
+    },
+    {
+      "id": "llama3.2-vision:latest",
+      "name": "llama3.2-vision:latest",
+      "object": "model",
+      "created": 1751202800,
+      "owned_by": "ollama",
+      "ollama": {
+        "name": "llama3.2-vision:latest",
+        "model": "llama3.2-vision:latest",
+        "modified_at": "2025-06-28T22:29:06.9323529+02:00",
+        "size": 7816589186,
+        "digest": "6f2f9757ae97e8a3f8ea33d6adb2b11d93d9a35bef277cd2c0b1b5af8e8d0b1e",
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "mllama",
+          "families": [
+            "mllama"
+          ],
+          "parameter_size": "10.7B",
+          "quantization_level": "Q4_K_M"
+        },
+        "connection_type": "local",
+        "urls": [
+          0
+        ]
+      },
+      "connection_type": "local",
+      "tags": [],
+      "actions": [],
+      "filters": []
+    },
+    {
+      "id": "arena-model",
+      "name": "Arena Model",
+      "info": {
+        "meta": {
+          "profile_image_url": "/favicon.png",
+          "description": "Submit your questions to anonymous AI chatbots and vote on the best response.",
+          "model_ids": null
+        }
+      },
+      "object": "model",
+      "created": 1751202801,
+      "owned_by": "arena",
+      "arena": true,
+      "actions": [],
+      "filters": [],
+      "tags": []
     }
-  ],
-  "object": "list"
+  ]
 }
 ```
 
-При запросе указывайте модель, помните, что на загрузку модели потребуется некоторое время. Текущее ограничение на длительность исполнения - 9 минут, потом соединение будет разорвано. Если вы используете одну модель подряд, заново она не загружается. Если вы укажете другую модель, предыдущая будет выгружена и загружена ваша. Если вас на сервере будет больше одного и вы используете разные модели, то будет ненужная конкуренция, синхронизация через чат NS Tech Talk вот [в этом сообщении](https://t.me/nstechtalks/190)
+Если вас на сервере будет больше одного и вы используете разные модели, то будет ненужная конкуренция, синхронизация через чат NS Tech Talk вот [в этом сообщении](https://t.me/nstechtalks/190)
 
-### Пример запросов
-
-Обратите внимание, что для разных запросов может использоваться чуть-чуть разный формат запросов, это важно:
-
-```bash
-curl http://llm.teamof.top/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -H "X-Auth-Token: <TOKEN>" \
-  -d '{
-    "model": "google/gemma-2-9b",
-    "messages": [
-      { "role": "system", "content": "You are expirienced programmer a teamleader. Any your answer is complete and starts with the basics. Your answer is for beginners so you should keep the explanation easy to understand" },
-      { "role": "user", "content": "Explain how internet proxy works" }
-    ],
-    "temperature": 0.7,
-    "max_tokens": -1,
-    "stream": false
-}'
-```
-А здесь ```"role": "assistant"```
-
-```bash
-curl http://llm.teamof.top/v1/chat/completions \
-  -H "Content-Type: application/json" \
-  -H "X-Auth-Token: <TOKEN>" \
-  -d '{
-    "model": "mistralai/mistral-7b-instruct-v0.3",
-    "messages": [
-      { "role": "assistant", "content": "Always answer in rhymes. Today is Thursday" },
-      { "role": "user", "content": "What day is it today?" }
-    ],
-    "temperature": 0.7,
-    "max_tokens": -1,
-    "stream": false
-}'
-```
-Пример ответа:
-```JSON
-{
-  "id": "chatcmpl-r8h850ak02jkqa909hyk8d",
-  "object": "chat.completion",
-  "created": 1750245975,
-  "model": "mistralai/mistral-7b-instruct-v0.3",
-  "choices": [
-    {
-      "index": 0,
-      "logprobs": null,
-      "finish_reason": "stop",
-      "message": {
-        "role": "assistant",
-        "content": " A day of work, with the weekend at bay,\n\nThursday it's called, as the sun begins to sway.\n\nA time for focus, a time for play,\n\nIn this rhythmic world, we come to say,\n\nHappy Thursday, may your day be okay!"
-      }
-    }
-  ],
-  "usage": {
-    "prompt_tokens": 21,
-    "completion_tokens": 64,
-    "total_tokens": 85
-  },
-  "stats": {},
-  "system_fingerprint": "mistralai/mistral-7b-instruct-v0.3"
-}
-```
 
 ## История: люди, крутящие планету
 
