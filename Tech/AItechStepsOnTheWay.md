@@ -102,7 +102,7 @@ Here are the steps, from easiest to the hardest, for progressing and mastering A
 
 **Why this is Step 5:** This is a game-changer. RAG drastically reduces hallucinations, makes your LLM responses factual and up-to-date with your private data, and is essential for enterprise use cases. n8n ties all the components together.
 
-### Step 6: Multi-Component Platforms (MCP) and Agentic Workflows with n8n (Harder)
+### Step 6: Model Context Protocol (MCP) and Agentic Workflows with n8n (Harder)
 
 **Goal:** Create more intelligent, multi-step AI agents that can reason, plan, and use tools dynamically to achieve complex goals, all orchestrated by n8n.
 
