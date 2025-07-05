@@ -145,3 +145,4 @@ curl -X POST http://llm.teamof.top/api/chat/completions \
 
 1. История развития, упомянутая на слайдах есть в [материалах презентациии для NS Tech Talks](CommunityLLM.md), там же есть список фильмов и полезной литературы
 2. [Lyra prompt](AItechLyraPrompt.md) - mission: transform any user input into precision-crafted prompts that unlock AI's full potential across all platforms.
+3. [Measuring AI code assistants and agents](https://getdx.com/research/measuring-ai-code-assistants-and-agents/) - To thrive in the AI era, organizations must adapt quickly. The DX AI Measurement Framework™ offers research-based metrics for measuring the impact of AI-assisted engineering in your organization.
