@@ -2,7 +2,7 @@
 
 **Прогнозировали 24% прироста, а получили 19% спада**
 
-[Оригинал](https://www.theregister.com/AMP/2025/07/11/ai_code_tools_slow_down/) Автор: [Thomas Claburn](https://www.theregister.com/Author/Thomas-Claburn)\<br />Пт 11 Июл 2025 // 22:41 UTC
+[Оригинал](https://www.theregister.com/AMP/2025/07/11/ai_code_tools_slow_down/)<br />Автор: [Thomas Claburn](https://www.theregister.com/Author/Thomas-Claburn)<br />Пт 11 Июл 2025 // 22:41 UTC
 
 Предполагается, что инструменты искусственного интеллекта для кодинга ускоряют разработку программного обеспечения, однако исследователи, протестировавшие эти инструменты в рандомизированном контролируемом исследовании, обнаружили обратное.
 
