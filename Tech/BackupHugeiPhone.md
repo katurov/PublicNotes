@@ -25,7 +25,7 @@ $ mv ~/Library/Application\ Support/MobileSync ~/Library/Application\ Support/Mo
 ```bash
 $ ln -s  /Volumes/Files4TB/ ~/Library/Application\ Support/MobileSync
 ```
-### Теперь открываем Filder
+### Теперь открываем Finder
 Заходим в папку телефона (слева, где диски), в меню (справа) выбираем **Backup Now**
 
 Скорее всего, с первого раза не сработает (у меня сработало на второй). Но в конечном счете - получится. 
